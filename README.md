@@ -1,6 +1,5 @@
 <h1></h1>
 <div style="position: relative; width: 815px; height: 80px;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNyMjV0dDd3ZTlsaDZoaGFyYjJjNzNxd2ozdnNndXZlM3gxY3loOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RHIKETUlUINYvV7CAO/giphy.webp" alt="GIF" style="width: 900px; height: 100px; object-fit: cover;">
     <div style="position: absolute; top: 15; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&letterSpacing=3px&pause=1000&color=F7EDED&center=true&random=true&width=435&lines=Hi%2C+There!" alt="Typing SVG" /></a>
     </div>
