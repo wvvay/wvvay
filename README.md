@@ -11,12 +11,12 @@
 <div align="left">
     
   <div align= "right" style="display: inline-block; vertical-align: top; max-width: 40%;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpNWd4NWJiMGhzamNuODhzOWtnbDk5MTRyem9vanIyMDMya3RvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xqkimyAQIwcBKE/giphy.webp" alt="GIF" align="right" style="width: 500px; height: 300px;" >
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpNWd4NWJiMGhzamNuODhzOWtnbDk5MTRyem9vanIyMDMya3RvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xqkimyAQIwcBKE/giphy.webp" alt="GIF" align="right" style="width: 450px; height: 300px;" >
   </div>
     
   <div style="display: inline-block; vertical-align: top; max-width: 60%;">
     <p>🔭 I’m currently working on my <strong>Password Manager</strong> 😁</p>
-    <p>🌱 I’m currently learning <strong>ASP.NET</strong>.</p>
+    <p>🌱 I’m currently learning <strong>ASP.NET Core</strong>.</p>
     <p>👯 I’m looking to collaborate with other <strong>Developers</strong> 😉</p>
     <p>⚡ A funny joke:</p>
     <p><strong>Мне этот код абсолютно понятен,</strong></p>
