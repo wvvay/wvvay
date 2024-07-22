@@ -5,12 +5,13 @@
 <hr>
 
 </div>
-<!-- --------------------------------------------------------------------------------- -->
+
+<!-- About Me--------------------------------------------------------------------------------- -->
 
 <div align="left">
 <h2 align="center">🚀 About Me</h2>
   <div align= "right" style="display: inline-block; vertical-align: top; max-width: 40%;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpNWd4NWJiMGhzamNuODhzOWtnbDk5MTRyem9vanIyMDMya3RvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xqkimyAQIwcBKE/giphy.webp" alt="GIF" align="right" style="width: 450px; height: 300px;" >
+    <img src="https://github.com/wvvay/wvvay/blob/main/GifAnimation/water.webp" alt="GIF" align="right" style="width: 450px; height: 300px;">
   </div>
     
   <div style="display: inline-block; vertical-align: top; max-width: 60%;">
@@ -27,12 +28,12 @@
     
 </div>
 
-<!-- --------------------------------------------------------------------------------- -->
-
+<!-- Tools --------------------------------------------------------------------------------- -->
 
 <p>
 <h2 align="center" style="position: relative; top: -10px; font-family: 'Arial', sans-serif;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 </p>
+<br>
 <div align="center">
 
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C&logoColor=800080)
@@ -49,8 +50,49 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 ![NotePad](https://img.shields.io/badge/-NotePad%2B%2B-090909?style=for-the-badge&logo=notepadplusplus&logoColor=008000)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=ff00ff)
-<!-- footer --------------------------------------------------------------------------------- -->
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C&logoColor=800080)
+![.Net](https://img.shields.io/badge/-ASP.NETCORE-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=f5f5f5)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=ffa500)
+
+<h2>
 </div>
+
+<!-- Contact --------------------------------------------------------------------------------- -->
+
+
+<div>
+<p>
+<h2 align="center" style="position: relative; top: -10px; font-family: 'Arial', sans-serif;">Contact Me 🤝</h2>
+</p>
+
+<div align="center">
+  <div align= "right" style="display: inline-block; vertical-align: top; max-width: 40%;">
+    <img src="" alt="GIF" align="left" style="width: 450px; height: 300px;">
+  </div>
+<br>
+If you have any questions, want to chat, or play games together, just message me 😉.
+<br><br><br>
+<p align="center">
+    <a href="https://t.me/EasyVVay">
+        <img src="https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="150" />
+    </a>
+    <br>
+    <a href="https://discordapp.com/users/426739856157179905">
+        <img src="https://img.shields.io/badge/discord-090909?style=for-the-badge&logo=discord&logoColor=white" alt="Discrod" width="150" />
+    </a>
+    <br>
+    <a href="https://steamcommunity.com/profiles/76561198925537436">
+        <img src="https://img.shields.io/badge/steam-090909?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" width="150" />
+    </a>
+    <br><br>
+</p>
+
+<br>
+</div>
+
+<!-- footer --------------------------------------------------------------------------------- -->
 
 <div>
 <hr>
