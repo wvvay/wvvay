@@ -1,10 +1,5 @@
-<hr>
-<br>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&letterSpacing=3px&pause=1000&color=F7EDED&center=true&random=true&width=435&lines=Hi%2C+There!" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Head --------------------------------------------------------------------------------- -->
+![Hi, there](https://github.com/wvvay/wvvay/raw/main/GifAnimation/Hi%2C%20there.gif)
 <hr/>
 <!-- --------------------------------------------------------------------------------- -->
 
@@ -36,3 +31,7 @@
 </div>
 <hr/>
 
+<!-- footer --------------------------------------------------------------------------------- -->
+![Hi, there](https://github.com/wvvay/wvvay/blob/main/GifAnimation/Good%20Luck.gif)
+<hr/>
+<!-- --------------------------------------------------------------------------------- -->
