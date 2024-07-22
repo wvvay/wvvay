@@ -50,11 +50,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 ![NotePad](https://img.shields.io/badge/-NotePad%2B%2B-090909?style=for-the-badge&logo=notepadplusplus&logoColor=008000)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=ff00ff)
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C&logoColor=800080)
-![.Net](https://img.shields.io/badge/-ASP.NETCORE-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=f5f5f5)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=ffa500)
 
 <h2>
 </div>
