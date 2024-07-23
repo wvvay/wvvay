@@ -94,16 +94,16 @@ If you have any questions, want to chat, play games together, or collaborate, ju
 </p>
 <div style="position: relative; width: 1000px; height: 400px;">
 
-<a href="https://github.com/wvvay" style="position: absolute; right: 100px; top: 0;">
+<a href="https://github.com/wvvay">
 <img width="450px" height="400px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wvvay&theme=highcontrast&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
 </a>
 
-<a href="https://github.com/wvvay" style="position: absolute; left: 0; top: 0;">
-<img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=wvvay&theme=highcontrast&title_color=ffffff&hide_border=true&show_icons=true">
+<a href="https://github.com/wvvay">
+<img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=wvvay&theme=highcontrast&title_color=ffffff&hide_border=true&show_icons=true">
 </a>
         
-<a href="https://github.com/wvvay" style="position: absolute; left: 0; top: 0;">
-<img width="450px" height="200px" src="http://github-readme-streak-stats.herokuapp.com/?user=wvvay&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=ffffff&fire=white&sideNums=white&currStreakLabel=white&hide_border=true">
+<a href="https://github.com/wvvay">
+<img width="400px" height="200px" src="http://github-readme-streak-stats.herokuapp.com/?user=wvvay&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=ffffff&fire=white&sideNums=white&currStreakLabel=white&hide_border=true">
  </a>
 
 </div>
