@@ -92,10 +92,10 @@ If you have any questions, want to chat, play games together, or collaborate, ju
 <p>
 <h2 align="center" style="position: relative; top: -10px; font-family: 'Arial', sans-serif;">🔥 Stats</h2>
 </p>
-<div style="position: relative; width: 1000px; height: 400px;">
+<div>
 
 <a href="https://github.com/wvvay">
-<img width="450px" height="400px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wvvay&theme=highcontrast&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
+<img width="400px" height="400px" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wvvay&theme=highcontrast&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
 </a>
 
 <a href="https://github.com/wvvay">
