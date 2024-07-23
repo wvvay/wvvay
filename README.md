@@ -16,7 +16,7 @@
     
   <div style="display: inline-block; vertical-align: top; max-width: 60%;">
     <p>🔭 I’m currently working on my <strong>Password Manager</strong> 😁</p>
-    <p>🌱 I’m currently learning <strong>ASP.NET Core</strong>.</p>
+    <p>🌱 I’m currently learning <strong>everything</strong></p>
     <p>👯 I’m looking to collaborate with other <strong>Developers</strong> 😉</p>
     <p>⚡ A funny joke:</p>
     <p><strong>Мне этот код абсолютно понятен,</strong></p>
@@ -54,7 +54,7 @@
 <h2>
 </div>
 
-<!-- Contact --------------------------------------------------------------------------------- -->
+<!-- Contact me--------------------------------------------------------------------------------- -->
 
 
 <div>
@@ -64,10 +64,10 @@
 
 <div align="center">
   <div align= "right" style="display: inline-block; vertical-align: top; max-width: 40%;">
-    <img src="" alt="GIF" align="left" style="width: 450px; height: 300px;">
+    <img src="https://github.com/wvvay/wvvay/blob/main/GifAnimation/moon.webp" alt="GIF" align="left" width="550" height="300";">
   </div>
 <br>
-If you have any questions, want to chat, or play games together, just message me 😉.
+If you have any questions, want to chat, play games together, or collaborate, just message me 😉.
 <br><br><br>
 <p align="center">
     <a href="https://t.me/EasyVVay">
@@ -86,6 +86,18 @@ If you have any questions, want to chat, or play games together, just message me
 
 <br>
 </div>
+
+<!-- Stats --------------------------------------------------------------------------------- -->
+
+
+<!-- Snake--------------------------------------------------------------------------------- -->
+
+
+<!-- --------------------------------------------------------------------------------- -->
+
+
+<!-- --------------------------------------------------------------------------------- -->
+
 
 <!-- footer --------------------------------------------------------------------------------- -->
 
