@@ -110,6 +110,8 @@ If you have any questions, want to chat, play games together, or collaborate, ju
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wvvay&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
+
+<!-- Snake--------------------------------------------------------------------------------- -->
 <div align="center">
     
 ![snake gif](https://github.com/wvvay/wvvay/blob/output/github-contribution-grid-snake-dark.svg)
@@ -117,16 +119,13 @@ If you have any questions, want to chat, play games together, or collaborate, ju
 
 </div>
 
+<h1 align="center">My Github Visitor Count: 
+    <a href="https://github.com/wvvay">
+        <img src="https://profile-counter.glitch.me/wvvay/count.svg" alt="Visitor Count">
+    </a>
+</h1>
 
 </div>
-
-<!-- Snake--------------------------------------------------------------------------------- -->
-
-
-<!-- --------------------------------------------------------------------------------- -->
-
-
-<!-- --------------------------------------------------------------------------------- -->
 
 
 <!-- footer --------------------------------------------------------------------------------- -->
