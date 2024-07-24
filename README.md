@@ -110,10 +110,14 @@ If you have any questions, want to chat, play games together, or collaborate, ju
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wvvay&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
+<div align="center">
+    
+![snake gif](https://github.com/wvvay/wvvay/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 </div>
 
-</a>
+
 </div>
 
 <!-- Snake--------------------------------------------------------------------------------- -->
