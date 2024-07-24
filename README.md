@@ -106,9 +106,8 @@ If you have any questions, want to chat, play games together, or collaborate, ju
 <img width="400px" height="200px" src="http://github-readme-streak-stats.herokuapp.com/?user=wvvay&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=ffffff&fire=white&sideNums=white&currStreakLabel=white&hide_border=true">
  </a>
 
- 
 <a href="https://github.com/wvvay">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=wvvay&custom_title=sss&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=wvvay&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
 
