@@ -15,7 +15,7 @@
   </div>
     
   <div style="display: inline-block; vertical-align: top; max-width: 60%;">
-    <p>🔭 I’m currently working on my <strong>Password Manager</strong> 😁</p>
+    <p>🔭 I’m currently working on my <strong>Платформа для ...</strong> 😁</p>
     <p>🌱 I’m currently learning <strong>everything</strong></p>
     <p>👯 I’m looking to collaborate with other <strong>Developers</strong> 😉</p>
     <p>⚡ A funny joke:</p>
