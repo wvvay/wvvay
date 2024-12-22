@@ -51,7 +51,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 ![NotePad](https://img.shields.io/badge/-NotePad%2B%2B-090909?style=for-the-badge&logo=notepadplusplus&logoColor=008000)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=ff00ff)
-
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white)
 <h2>
 </div>
 
