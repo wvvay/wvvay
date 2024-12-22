@@ -39,6 +39,7 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C&logoColor=800080)
 ![.Net](https://img.shields.io/badge/-ASP.NETCORE-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=f5f5f5)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=ffa500)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=ffff00)
