@@ -51,10 +51,13 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 ![NotePad](https://img.shields.io/badge/-NotePad%2B%2B-090909?style=for-the-badge&logo=notepadplusplus&logoColor=008000)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=ff00ff)
+![Intellijidea](https://img.shields.io/badge/-Intellijidea-090909?style=for-the-badge&logo=intellijidea&logoColor=ff00ff)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white)
 ![K8S](https://img.shields.io/badge/-K8S-090909?style=for-the-badge&logo=kubernetes&logoColor=blue)
 ![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Ansible](https://img.shields.io/badge/-Ansible-090909?style=for-the-badge&logo=ansible&logoColor=gray)
+![Dbeaver](https://img.shields.io/badge/-Dbeaver-090909?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=purple)
 <h2>
 </div>
 
