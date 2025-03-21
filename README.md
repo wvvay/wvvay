@@ -52,6 +52,9 @@
 ![NotePad](https://img.shields.io/badge/-NotePad%2B%2B-090909?style=for-the-badge&logo=notepadplusplus&logoColor=008000)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=ff00ff)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white)
+![K8S](https://img.shields.io/badge/-K8S-090909?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=orange)
+![Ansible](https://img.shields.io/badge/-Ansible-090909?style=for-the-badge&logo=ansible&logoColor=gray)
 <h2>
 </div>
 
