@@ -125,16 +125,6 @@ If you have any questions, want to chat, play games together, or collaborate, ju
 ![snake gif](https://github.com/wvvay/wvvay/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-</div>
-
-<h1 align="center">My Github Visitor Count: 
-    <a href="https://github.com/wvvay">
-        <img src="https://profile-counter.glitch.me/wvvay/count.svg" alt="Visitor Count">
-    </a>
-</h1>
-
-</div>
-
 
 <!-- footer --------------------------------------------------------------------------------- -->
 
